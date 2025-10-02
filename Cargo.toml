@@ -1,0 +1,17 @@
+[package]
+name = "unpac"
+version = "1.0.3"
+authors = ["super-continent"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+anyhow = "1"
+serde = { version = "1", features = ['derive'] }
+serde_json = "1"
+structopt = "0"
+byteorder = "1"
+rayon = "1.5"
+image = "0.23"
+arcsys = { git = "https://github.com/super-continent/arcsys.git" }
