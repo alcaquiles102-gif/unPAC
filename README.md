@@ -9,3 +9,4 @@ Currently works with the following formats:
 ## Usage
 Drag and drop the files you want to extract the contents of onto `unPAC.exe`, you can also enter a list of file paths as CLI input
 "# unPAC" 
+"# unPAC"  
